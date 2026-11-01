@@ -1,0 +1,16 @@
+# Secrets and local configuration
+.env
+credentials.json
+token.json
+
+# Disposable/intermediate files
+.tmp/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# macOS
+.DS_Store
