@@ -91,3 +91,5 @@ Jeg har afgrænset workflowet, konkretiseret kvalitetskravene og itereret på l�
 Arbejdet har især givet praktisk erfaring med at omsætte et behov til et afgrænset workflow, skelne mellem AI-opgaver og deterministisk kode, opstille stopkriterier og teste en integration på det faktiske slutresultat.
 
 Se den korte arbejdsgiverrettede case i [PORTFOLIO_CASE.md](PORTFOLIO_CASE.md).
+
+Udviklere kan læse [arkitekturoverblikket](ARCHITECTURE.md) og [bidragsvejledningen](CONTRIBUTING.md).
